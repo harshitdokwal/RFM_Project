@@ -12,25 +12,25 @@ The dataset includes transactional data with the following key columns:
 5. Quantity: Number of items purchased.
 
 ## Preprocessing Steps
-Handle missing values and duplicates.
-Format date columns appropriately.
-Aggregate data to calculate RFM metrics.
+1. Handle missing values and duplicates.
+2. Format date columns appropriately.
+3. Aggregate data to calculate RFM metrics.
 
 ## Methodology
-Data Preprocessing:
+1. Data Preprocessing:
 Cleaned and transformed the dataset to ensure consistency and accuracy.
-RFM Calculation:
+2. RFM Calculation:
 Calculated Recency, Frequency, and Monetary values for each customer.
-Clustering:
+3. Clustering:
 Standardized the RFM metrics and applied K-Means clustering to segment customers.
 
 ## Insights and Visualization:
 Visualized the clusters to interpret customer behavior and identify actionable insights.
 
 ## Key Insights
-Loyal Customers: Customers with frequent purchases and high monetary value.
-At-Risk Customers: Customers who haven't made purchases recently.
-Big Spenders: Customers with high monetary value irrespective of frequency.
+1. Loyal Customers: Customers with frequent purchases and high monetary value.
+2. At-Risk Customers: Customers who haven't made purchases recently.
+3. Big Spenders: Customers with high monetary value irrespective of frequency.
 
 ## Requirements
 Python 
