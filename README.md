@@ -1,5 +1,5 @@
 # E-Commerce Customer Segmentation Using RFM Clustering
-![RFM](image-url)
+![RFM](clustering_image.png)
 ## Overview
 This project demonstrates how to analyze and segment customers using the Recency, Frequency, and Monetary (RFM) model, followed by clustering using K-Means. It enables businesses to identify different customer segments and develop targeted strategies for each group.
 
