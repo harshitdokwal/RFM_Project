@@ -5,11 +5,11 @@ This project demonstrates how to analyze and segment customers using the Recency
 ## Dataset Description
 The dataset includes transactional data with the following key columns:
 
-CustomerID: Unique identifier for each customer.
-Date of Purchase: Date of the transaction.
-Price: Total value of the transaction.
-InvoiceNo: Unique identifier for each transaction.
-Quantity: Number of items purchased.
+1 CustomerID: Unique identifier for each customer.
+2 Date of Purchase: Date of the transaction.
+3 Price: Total value of the transaction.
+4 InvoiceNo: Unique identifier for each transaction.
+5 Quantity: Number of items purchased.
 
 ## Preprocessing Steps
 Handle missing values and duplicates.
